@@ -1,4 +1,4 @@
-#Password Generator - Hugo Oliveira
+# Password Generator - Hugo Oliveira
 
 import random
 
